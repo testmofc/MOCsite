@@ -72,7 +72,7 @@ class MOC_bot2(unittest.TestCase):
 
         #End bot flow
         time.sleep(5)
-        self.driver.find_element_by_xpath("//*[@id='bot__to-contacts']").click()                    #Contact Us button
+#       self.driver.find_element_by_xpath("//*[@id='bot__to-contacts']").click()                    #Contact Us button
 #       self.driver.find_element_by_xpath("//*[@id='bot__to-portfolio']").click()                   #View Our Works button
 
 
